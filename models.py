@@ -66,7 +66,7 @@ class Model:
             ],
         )
         # Validation data is used only when passed as an argument
-        val_data = (X_val, y_val) if X_val else None
+        val_data = (X_val, y_val) if X_val is not None else None
         hist = self.model.fit(
             X_train,
             y_train,
