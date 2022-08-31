@@ -1,0 +1,17 @@
+artifact_path: model_LSTM_3
+flavors:
+  keras:
+    code: null
+    data: data
+    keras_module: tensorflow.keras
+    keras_version: 2.9.0
+    save_format: tf
+  python_function:
+    data: data
+    env: conda.yaml
+    loader_module: mlflow.keras
+    python_version: 3.8.13
+mlflow_version: 1.28.0
+model_uuid: 786bd82693284203971bf5f273856242
+run_id: 1f2bd5c3e3bf4279986bda06fcba2521
+utc_time_created: '2022-08-24 19:15:48.193860'

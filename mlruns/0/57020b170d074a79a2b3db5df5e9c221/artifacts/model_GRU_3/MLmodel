@@ -1,0 +1,17 @@
+artifact_path: model_GRU_3
+flavors:
+  keras:
+    code: null
+    data: data
+    keras_module: tensorflow.keras
+    keras_version: 2.9.0
+    save_format: tf
+  python_function:
+    data: data
+    env: conda.yaml
+    loader_module: mlflow.keras
+    python_version: 3.8.13
+mlflow_version: 1.28.0
+model_uuid: 3853f01214eb446fb35c768b469ef0ff
+run_id: 57020b170d074a79a2b3db5df5e9c221
+utc_time_created: '2022-08-24 22:15:16.368724'

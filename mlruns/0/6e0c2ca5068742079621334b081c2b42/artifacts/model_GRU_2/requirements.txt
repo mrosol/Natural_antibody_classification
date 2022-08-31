@@ -1,0 +1,9 @@
+mlflow
+cffi==1.15.1
+defusedxml==0.7.1
+keras==2.9.0
+pandas==1.4.3
+pillow==9.2.0
+scipy==1.7.3
+tensorflow-macos==2.9.2
+tensorflow==2.9.2

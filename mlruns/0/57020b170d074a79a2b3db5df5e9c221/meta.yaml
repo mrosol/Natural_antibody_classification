@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mrosol/Desktop/NaturalAntibody/mlruns/0/57020b170d074a79a2b3db5df5e9c221/artifacts
+end_time: 1661379324251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 57020b170d074a79a2b3db5df5e9c221
+run_uuid: 57020b170d074a79a2b3db5df5e9c221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661376931640
+status: 3
+tags: []
+user_id: mrosol
